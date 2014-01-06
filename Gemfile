@@ -5,7 +5,6 @@ gem 'pg', '0.12.2'
 gem 'bootstrap-sass', '2.1'
   gem 'sass-rails',   '3.2.5'
 
-  gem 'rails_12factor'
 group :development, :test do
   gem 'rspec-rails', '2.11.0'
 end
